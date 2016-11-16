@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"aspirantes3/includes",
+				"aspirantes3/css",
+				"aspirantes3/fonts",
+				"aspirantes3/fpdf",
+				"aspirantes3/imagenes",
+				"aspirantes3/js",
+				"aspirantes3/nbproject",
+				"aspirantes3/sql",
+				"aspirantes3/xml",
+				"aspirantes3/database"
+			],
+			"path": "C:\\wamp\\www\\sistematece1"
+		},
+		{
+			"folder_exclude_patterns":
+			[
+				"aspirantes3/includes",
+				"aspirantes3/css",
+				"aspirantes3/fonts",
+				"aspirantes3/fpdf",
+				"aspirantes3/imagenes",
+				"aspirantes3/js",
+				"aspirantes3/nbproject",
+				"aspirantes3/sql",
+				"aspirantes3/xml",
+				"aspirantes3/database"
+			],
+			"path": "C:\\wamp\\www\\sistematece1\\aspirantes3"
+		}
+	]
+}

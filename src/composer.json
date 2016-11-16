@@ -1,0 +1,19 @@
+{
+    "name": "dukin/sitece16doc",
+    "description": "Documentacion de los modulos y clases generados para el Sitece",
+    "type": "library",
+    "require": {
+        "slim/slim": "*",
+        "j4mie/idiorm": "^1.5",
+        "monolog/monolog": "^1.21",
+        "slim/php-view": "^2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dukintosh",
+            "email": "dukintosh@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}

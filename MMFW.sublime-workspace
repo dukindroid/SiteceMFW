@@ -1,0 +1,988 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"@return\tPhpDoc"
+			],
+			[
+				"deps",
+				"$deps〔variable〕"
+			],
+			[
+				"serv",
+				"$serv〔variable〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"Repo",
+				"RepoUsuarios"
+			],
+			[
+				"un",
+				"$unPersistible〔variable〕"
+			],
+			[
+				"dat",
+				"$datos〔variable〕"
+			],
+			[
+				"PDO",
+				"PDO::FETCH_ASSOC"
+			],
+			[
+				"comp",
+				"comparaWhere"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fil",
+				"$filtroWhere〔variable〕"
+			],
+			[
+				"filtr",
+				"filtroWhere〔variable〕"
+			],
+			[
+				"exp",
+				"explode〔function〕"
+			],
+			[
+				"f",
+				"filtroCol〔variable〕"
+			],
+			[
+				"col",
+				"$columnas〔variable〕"
+			],
+			[
+				"is",
+				"is_null"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			],
+			[
+				"ta",
+				"$tabla〔variable〕"
+			],
+			[
+				"ti",
+				"tipo_usuario"
+			],
+			[
+				"ap",
+				"ap_paterno"
+			],
+			[
+				"fi",
+				"$filename〔variable〕"
+			],
+			[
+				"class",
+				"class_uses〔function〕"
+			],
+			[
+				"getdef",
+				"get_defined_vars〔function〕"
+			],
+			[
+				"con",
+				"$consulta〔variable〕"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"U",
+				"Usuario"
+			],
+			[
+				"requir",
+				"require_once〔keyword〕"
+			],
+			[
+				"require",
+				"require_once〔function〕"
+			],
+			[
+				"EXTR",
+				"EXTR_PREFIX_ALL〔constant〕"
+			],
+			[
+				"db",
+				"$dbconb_ini〔variable〕"
+			],
+			[
+				"spl_",
+				"spl_autoload_register"
+			],
+			[
+				"json",
+				"json_encode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/autoload.php",
+			"settings":
+			{
+				"buffer_size": 1063,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Contenedor.php",
+			"settings":
+			{
+				"buffer_size": 2892,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/modulo/app.php",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Aplicacion.php",
+			"settings":
+			{
+				"buffer_size": 3930,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Vistas.php",
+			"settings":
+			{
+				"buffer_size": 1584,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/trash.php",
+			"settings":
+			{
+				"buffer_size": 3670,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/index.php",
+			"settings":
+			{
+				"buffer_size": 3227,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/conf.php",
+			"settings":
+			{
+				"buffer_size": 1642,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Database.php",
+			"settings":
+			{
+				"buffer_size": 1337,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Usuario.php",
+			"settings":
+			{
+				"buffer_size": 2046,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Repositorios/RepoUsuarios.php",
+			"settings":
+			{
+				"buffer_size": 628,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Permisos.php",
+			"settings":
+			{
+				"buffer_size": 1793,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Repositorios/RepoPermisos.php",
+			"settings":
+			{
+				"buffer_size": 746,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 379.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"chec",
+				"Git: Checkout Tag"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"stas",
+				"Git: Stash List"
+			],
+			[
+				"fet",
+				"Git: Fetch"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/sistematece1/aspirantes3/clases",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/monolog"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/javo/vendor/nikic/fast-route/.hhconfig",
+		"/C/wamp/www/sistematece1/aspirantes3/autoload.php",
+		"/C/wamp/www/sistematece1/aspirantes3/modulo/app.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Aplicacion.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Contenedor.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Permisos.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Database.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Usuario.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Vistas.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Modulos/pb.php",
+		"/C/wamp/www/sistematece1/aspirantes3/index.php",
+		"/C/wamp/www/sistematece1/aspirantes3/conf.php",
+		"/C/wamp/www/sistematece1/aspirantes3/includes/cabezera.php",
+		"/C/wamp/www/javo/vendor/autoload.php",
+		"/C/wamp/www/sistematece1/aspirantes3/layout/plantilla.php",
+		"/C/wamp/www/sistematece1/aspirantes3/modulo/home.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Repositorio.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/roles_info.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/trash.php",
+		"/C/wamp/www/javo/composer.json",
+		"/C/wamp/www/sitece16doc/composer.json",
+		"/C/wamp/www/sistematece1/aspirantes3/xml/publicidad.xml",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Vistas/default.html",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/autoload.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Repositorios/RepoCatalogo.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Repositorios/RepoUsuarios.php",
+		"/C/wamp/www/sistematece1/login.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Entidades/Contenedor.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Entidades/trash.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Repositorios/repoUsuarios.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Entidades/Usuario.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Entidades/Repositorio.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Repositorios/repoPermisos.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Repositorios/IPersistible.php",
+		"/C/wamp/www/sistematece1/aspirantes3/menus/menu.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Entidades/Vistas.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Entidades/Database.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/Entidades/Permisos.php",
+		"/C/wamp/www/sistematece1/aspirantes3/modulo/enrutador.php",
+		"/C/wamp/www/sistematece1/aspirantes/menus/menu.php",
+		"/C/wamp/www/sistematece1/aspirantes3/clases/monolog-master/monolog-master/src/Monolog/Handler/ChromePHPHandler.php",
+		"/C/Users/dukin/Downloads/sistemh4_principal.sql",
+		"/C/wamp/www/sistematece1/aspirantes/database/rbac_.sql",
+		"/C/wamp/www/sistematece1/aspirantes/clases/PhpRbac/core/lib/rbac.php",
+		"/C/wamp/www/sistematece1/aspirantes/clases/Javo/Contenedor.php",
+		"/C/wamp/www/sistematece1/aspirantes/clases/Javo/rbac.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/metas/roles.php",
+		"/C/wamp/www/sistematece1/aspirantes/database/sqlite.sql",
+		"/C/wamp/www/sistematece1/aspirantes/database/database.config",
+		"/C/wamp/www/sistematece1/aspirantes/clases/PhpRbac/Rbac.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/pb.php",
+		"/C/wamp/www/sistematece1/aspirantes/clases/autoload.php",
+		"/C/wamp/www/sistematece1/aspirantes/layout/plantilla.php",
+		"/C/wamp/www/sistematece1/aspirantes/conf.php",
+		"/C/wamp/www/sistematece1/aspirantes/index.php",
+		"/C/wamp/www/sistematece1/aspirantes/clases/PhpRbac/core/lib/nestedset/base.php",
+		"/C/wamp/www/sistematece1/aspirantes/clases/PhpRbac/core/lib/Jf.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/repoUsuarios.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Usuario.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Contenedor.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/PhpRbac/src/PhpRbac/Rbac.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/app.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Autoloader.php",
+		"/C/Users/dukin/OneDrive/Documents/La Chamba/dcto lazaro",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/PhpRbac/database/mysql.sql",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/PhpRbac/database/database.config",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/autoload.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Database.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Dependencias/Contenedor.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Usuario/repoUsuario.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Database/repoUsuario.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/sistematece1/aspirantes/clases/ConexionMySQL.php",
+		"/C/wamp/www/sistematece1/aspirantes/clases/dbconectar.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/Usuario/usr.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/db/Conexion.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/db/db.php",
+		"/C/wamp/www/sistematece1/phpinfo.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Autoloader.php",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/Clases/db.php",
+		"/C/wamp/bin/mysql/mysql5.6.17/bin/sistemh4_reportes.sql",
+		"/C/wamp/www/sistematece1/aspirantes/modulo/PlanBimestral/autoload.php",
+		"/C/Users/dukin/OneDrive/Documents/La Chamba/Directorio Telefónico.txt",
+		"/C/wamp/apps/phpmyadmin4.1.14/config.inc.php",
+		"/C/wamp/logs/apache_error.log",
+		"/C/Users/dukin/Desktop/teclas.ahk",
+		"/C/wamp/www/sitece/aspirantes/index.php",
+		"/C/wamp/www/sitece/admin.php",
+		"/C/wamp/www/sitece/aspirantes/conf.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\sistematece1\\aspirantes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"igusl",
+			"usr",
+			"bime",
+			"plan",
+			"bim",
+			"ver_PB_global",
+			"setAttribute",
+			"coleg",
+			"beca",
+			"tp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/autoload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								522,
+								522
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Contenedor.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/modulo/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Aplicacion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Vistas.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1516,
+								1516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/trash.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/conf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Usuario.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Repositorios/RepoUsuarios.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Entidades/Permisos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/wamp/www/sistematece1/aspirantes3/clases/Sitece16/Repositorios/RepoPermisos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.533674963397,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.694326241135,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 171.0
+	},
+	"pinned_build_system": "",
+	"project": "MMFW.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
